@@ -1,0 +1,13 @@
+h3{
+   text-align:center;
+   font:bolder; 
+   color:whitesmoke;
+   background-image:url("https://i.pinimg.com/736x/72/11/d0/7211d05c09429bf7648728cee42ad622.jpg");
+   text-size-adjust: 20px;
+}
+
+body{
+  background-image: url("https://i.pinimg.com/736x/1e/d4/4e/1ed44e0e2c1bfc7940263d7ed78ab74c.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
